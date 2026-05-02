@@ -16,4 +16,4 @@ I'm the creator of **Script Meow**, a web-based interactive experience built wit
 ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 📬 Contact Me
-[**official website**](https://logicmeow.co.uk) | [**youtube**](https://www.youtube.com/@nickythekitty2) | [**discord**](https://discord.gg/your-invite-link)
+[**Official Website**](https://logicmeow.co.uk) | [**Youtube**](https://www.youtube.com/@nickythekitty2) | [**Discord**](https://discord.gg/nvvgNxsgTE)
