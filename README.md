@@ -1,4 +1,4 @@
-# Hi there, I'm Nicky! 👋
+# Hi there, I'm Nicky!
 
 ### Dev @Nicky-LogicMeow
 I'm the creator of **Script Meow**, a web-based interactive experience built with the Ren'Py engine. I love blending storytelling with tech to create some cool browser experiences.
