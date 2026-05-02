@@ -11,9 +11,10 @@ I'm the creator of **Script Meow**, a web-based interactive experience built wit
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://shields.io)
-![Ren'Py](https://shields.io)
-![HTML5](https://shields.io)
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="RenPy" />
+<img src="https://shields.io" alt="HTML5" />
+
 
 ### 📬 Connect with me
 [**Official Website**](https://logicmeow.co.uk) | [**YouTube**](YOUR_YOUTUBE_LINK_HERE) | [**Discord**](YOUR_DISCORD_LINK_HERE)
